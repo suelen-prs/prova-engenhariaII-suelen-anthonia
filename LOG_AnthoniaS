@@ -1,0 +1,345 @@
+    1  git version
+    2  git config --global user.name "AnthoniaS"
+    3  git config --global user.email anthoniasr@gmail.com
+    4  cd Desktop/
+    5  cd claravel
+    6  git status
+    7  git add  blog/public/js/app.js
+    8  git status
+    9  git add  blog/resources/assets/js/components/Painel.vue
+   10  git status
+   11  git add blog/resources/views/home.blade.php
+   12  git status
+   13  git commit -m "1.2"
+   14  git push -u origin master
+   15  git pull origin master
+   16  git status
+   17  git add .
+   18  git commit -m "1.3"
+   19  git status
+   20  git pull origin master
+   21  git config --global user.name"AnthoniaS"
+   22  git config --global user.email anthoniasr@gmail.com
+   23  git config --global user.name"AnthoniaS"
+   24  git config --global user.email"anthoniasr@gmail.com
+   25  "
+   26  git config --global user.email"anthoniasr@gmail.com"
+   27  git remote add origin https://github.com/AnthoniaS/LaravelVue.git
+   28  git pull origin master
+   29  git config --global user.name"AnthoniaS"
+   30  git config --global user.email"anthoniasr@gmail.com"
+   31  git init
+   32  git remote add origin https://github.com/AnthoniaS/LaravelVue.git
+   33  git pull origin master
+   34  git add .
+   35  git commit -m "Versão 0.1"
+   36  git push origin master
+   37  git status
+   38  git config --global user.name"AnthoniaS"
+   39  git config --global user.email"anthoniasr@gmail.com"
+   40  git init
+   41  git remote add origin https://github.com/AnthoniaS/CLaravelVue.git
+   42  git pull origin master
+   43  git init
+   44  git init
+   45  gir config --global user.name"AnthoniaS"
+   46  git config --global user.name"AnthoniaS"
+   47  git config --global user.email"anthoniasr@gmail.com"
+   48  git init
+   49  git remote add origin https://github.com/AnthoniaS/CLaravelVue.git
+   50  git pull origin master
+   51  git remote add origin https://github.com/AnthoniaS/CLaravelVue.git
+   52  git pull origin master
+   53  git config --global user.name"AnthoniaS"
+   54  git config --global user.email"anthoniasr@gmail.com"
+   55  git remote add origin 
+   56  antho@LAPTOP-PDTCB3RH MINGW64 ~/Documents/claravel (master)
+   57  $ git config --global user.name"AnthoniaS"
+   58  antho@LAPTOP-PDTCB3RH MINGW64 ~/Documents/claravel (master)
+   59  $ git config --global user.email"anthoniasr@gmail.com"
+   60  antho@LAPTOP-PDTCB3RH MINGW64 ~/Documents/claravel (master)
+   61  $ git remote add origin
+   62  git config --global user.name"AnthoniaS"
+   63  git config --global user.email"anthoniasr@gmail.com
+   64  "
+   65  git config --global user.email"anthoniasr@gmail.com"
+   66  git remote add origin https://github.com/AnthoniaS/CLaravelVue.git
+   67  git pull origin master
+   68  git add .
+   69  git commit -m "V 0.1"
+   70  git push origin master
+   71  gir config --global user.name"AnthoniaS"
+   72  git config --global user.name"AnthoniaS"
+   73  git config --global user.email"anthoniasr@gmail.com"
+   74  git init
+   75  git remote add origin https://github.com/AnthoniaS/CLaravelVue.git
+   76  git pull origin master
+   77  git add .
+   78  git commit -m "V 0.1"
+   79  git push origin master
+   80  git config --global user.name"AnthoniaS"
+   81  git config --global user.email"anthoniasr@gmail.com"
+   82  git status
+   83  git add .
+   84  git commit -m "V 0.2"
+   85  git push origin master
+   86  git config --global user.name"AnthoniaS"
+   87  git config --global user.email"anthoniasr@gmail.com"
+   88  git status
+   89  git add .
+   90  git commit -m "V.8"
+   91  git push origin master
+   92  git status
+   93  git add .
+   94  git commit -m "V.9"
+   95  git push origin master
+   96  git status
+   97  git add .
+   98  git commit -m "V.10"
+   99  git push origin master
+  100  git status
+  101  git add .
+  102  git commit -m "V.11"
+  103  git push origin master
+  104  git status
+  105  git add .
+  106  git commit -m "V.12"
+  107  git push origin master
+  108  git config --global user.name"AnthoniaS"
+  109  git config --global user.email"anthoniasr@gmail.com"
+  110  git clone https://AnthoniaS@bitbucket.org/atlastechnologiesteam/atlasteca.git
+  111  git init
+  112  git clone https://AnthoniaS@bitbucket.org/atlastechnologiesteam/atlasteca.git
+  113  git config --global user.name"AnthoniaS"
+  114  git config --global user.email"anthoniasr@gmail.com"
+  115  git clone https://AnthoniaS@bitbucket.org/atlastechnologiesteam/atlasteca.git
+  116  git config --global user.name"AnthoniaS"
+  117  git config --global user.email"anthoniasr@gmail.com"
+  118  git init
+  119  git remote add origin https://AnthoniaS@bitbucket.org/AnthoniaS/teste.git
+  120  git pull origin master
+  121  git pull origin master
+  122  git add .
+  123  git commit -m "v.1"
+  124  git push origin master
+  125  git push -u origin master
+  126  git push origin master
+  127  git pull
+  128  git pull branch
+  129  git pull master
+  130  git config --global user.name"AnthoniaS"
+  131  git config --global user.email"anthoniasr@gmail.com"
+  132  git clone https://AnthoniaS@bitbucket.org/AnthoniaS/teste.git
+  133  git status
+  134  git add .
+  135  git commit -m "v.1"
+  136  git push origin master
+  137  git pull origin master
+  138  git push irigin
+  139  git push origin
+  140  git push origin master
+  141  git status
+  142  git config --global user.name"AnthoniaS"
+  143  git config --global user.email"anthoniasr@gmail.com"
+  144  git status
+  145  git config --global user.name"AnthoniaS"
+  146  git config --global user.email"anthoniasr@gmail.com"
+  147  git init
+  148  git status
+  149  git add .
+  150  git status
+  151  git remote add bit_server https://AnthoniaS@bitbucket.org/AnthoniaS/teste.git
+  152  git remot -v
+  153  git remote -v
+  154  git commit -m "V.1"
+  155  git push bit_server master
+  156  git pull bit_server master
+  157  git push bit_server master
+  158  git push --set-upstream bit_server master
+  159  git pull --allow-unrelated-histories
+  160  git pull bit_server master
+  161  git push bit_server master
+  162  git status
+  163  git status
+  164  git add .
+  165  git status
+  166  git commit -m "V.2"
+  167  git push bit_server master
+  168  git status
+  169  git add .
+  170  git status
+  171  git commit -m "V.3"
+  172  git push bit_server master
+  173  git status
+  174  git add .
+  175  git status
+  176  git commit -m "V.5"
+  177  git push bit_server master
+  178  git status
+  179  git add .
+  180  git status
+  181  git status
+  182  git add .
+  183  git commit -m "V.6"
+  184  git push bit_server master
+  185  git status
+  186  git status
+  187  git add.
+  188  git add .
+  189  git status
+  190  git commit -m "V.6"
+  191  git push bit_server master
+  192  git config --global user.name "anthoniasr"
+  193  git config --global user.email "anthoniasr@gmail.com"
+  194  git init
+  195  git remote add origin git@gitlab.com:algoritmos-iii1/salao-de-beleza/beauty-space.git
+  196  git pull origin master
+  197  git add .
+  198  git commit -m "base do projeto"
+  199  git push origin master
+  200  git fetch
+  201  git push origin master
+  202  git pull origin master
+  203  git add .
+  204  git commit -m "base do projeto"
+  205  git push origin master
+  206  git pull origin master --allow-unrelated-histories
+  207  git push origin master
+  208  git add .
+  209  git status
+  210  git commit -m "base do projeto"
+  211  git push origin master
+  212  git push origin master
+  213  git push origin master
+  214  code .
+  215  git config --global user.name"AnthoniaS"
+  216  git config --global user.email "anthoniasr@gmail.com"
+  217  git int
+  218  git init
+  219  git config --global user.name "AnthoniaS"
+  220  git config --global user.email "anthoniasr@gmail.com"
+  221  git init
+  222  git remote add origin https://github.com/suelen-prs/prova-engenhariaII-suelen-anthonia.git
+  223  npm i -g gitmoji-cli
+  224  git checkout -b multiplicacao
+  225  git status
+  226  git add .
+  227  git status
+  228  git commit 
+  229  gitmoji -l
+  230  gitmoji -l |less
+  231  gitmoji -i
+  232  git commit
+  233  git status
+  234  git commit
+  235  git commit
+  236  git checkout master
+  237  ls
+  238  git branch
+  239  git config --global user.name "AnthoniaS"
+  240  git config --global user.email "anthoniasr@gmail.com"
+  241  git config --global user.name "AnthoniaS"
+  242  git config --global user.email "anthoniasr@gmail.com"
+  243  git clone antho@LAPTOP-PDTCB3RH MINGW64 ~/Desktop/prova1
+  244  $ history -c
+  245  antho@LAPTOP-PDTCB3RH MINGW64 ~/Desktop/prova1
+  246  $ git config --global user.name "AnthoniaS"
+  247  antho@LAPTOP-PDTCB3RH MINGW64 ~/Desktop/prova1
+  248  $ git config --global user.email "anthoniasr@gmail.com"
+  249  antho@LAPTOP-PDTCB3RH MINGW64 ~/Desktop/prova1
+  250  $ git clone
+  251  git config --global user.name "AnthoniaS"
+  252  git config --global user.email "anthoniasr@gmail.com"
+  253  git clone https://github.com/suelen-prs/prova-engenhariaII-suelen-anthonia.git
+  254  code.
+  255  code .
+  256  npm i -g gitmoji-cli
+  257  gitmoji -i
+  258  gitmoji -c
+  259  gitmoji -i
+  260  git checkout -b multiplicacao
+  261  git config --global user.name "AnthoniaS"
+  262  git config --global user.email "anthoniasr@gmail.com"
+  263  git checkou -b multiplicacao
+  264  git checkout -b multiplicacao
+  265  git status
+  266  git add .
+  267  git commit 
+  268  gitmoji -i
+  269  git commit
+  270  git checkout master
+  271  git merge multiplicacao
+  272  git push origin master
+  273  git status
+  274  git add .
+  275  git commit
+  276  git reset head~1 --hard
+  277  git status
+  278  git branch
+  279  git checkout multiplicacao
+  280  git status
+  281  git add .
+  282  git commit
+  283  git checkout master
+  284  git push origin multiplicacao
+  285  git checkout soma
+  286  merge pull request
+  287  git checkout -b divisao
+  288  git status
+  289  git add .
+  290  git commit
+  291  git checkout master
+  292  git push origin divisao
+  293  git merge divisao
+  294  git merge multiplicacao
+  295  git merge multiplicacao
+  296  cd ..
+  297  git branchs
+  298  git branch
+  299  git checkout master
+  300  cd prova-engenhariaII-suelen-anthonia/
+  301  git pull 
+  302  git checkout master
+  303  git pull
+  304  code .
+  305  git status
+  306  git commit
+  307  git merge
+  308  git merge
+  309  git pull
+  310  git checkout master
+  311  git pull
+  312  git merge
+  313  git pull
+  314  git merge
+  315  git merge
+  316  git pull
+  317  history > LOG_AnthoniaS
+  318  git status
+  319  git add .
+  320  git commit
+  321  git push origin master
+  322  git push origin 
+  323  git pull origin master --allow-unrelated-histories
+  324  git push origin 
+  325  git pull origin
+  326  git checkout master
+  327  git checkout master
+  328  git merge
+  329  git checkout master
+  330  git checkout master
+  331  git push origin master
+  332  git checkout master
+  333  git merge
+  334  git merge soma
+  335  git push origin 
+  336  git checkout master
+  337  git branch
+  338  git pull
+  339  git merge
+  340  git checkout master
+  341  git pull origin master --allow-unrelated-histories
+  342  git reset head~1 --hard
+  343  git status
+  344  git checkout -b historico
+  345  history > LOG_AnthoniaS
