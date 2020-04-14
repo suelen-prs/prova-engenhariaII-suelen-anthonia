@@ -81,3 +81,25 @@
    81  git log
    82  git tag 1.0.0
    83  history > LOG_SuelenPeres
+   84  git status
+   85  git add .
+   86  git status
+   87  git commit -m "Adicionando histórico de comandos do gitlab"
+   88  git push
+   89  git reset HEAD~1 --soft
+   90  git checkout -b historicoSu
+   91  git status
+   92  git commit 
+   93  git checkout master
+   94  git push origin historicoSu
+   95  git checkout historicoSu
+   96  git checkout master
+   97  git merge historicoSu
+   98  git checkout -b readme
+   99  git add .
+  100  git commit
+  101  git add .
+  102  git commit
+  103  git checkout master
+  104  git push origin readme
+  105  history > LOG_SuelenPeres
