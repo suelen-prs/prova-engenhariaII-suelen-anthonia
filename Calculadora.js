@@ -7,7 +7,7 @@ function sub(){
 }
 
 function mult(num1, num2){
-    return num1 * num
+    return num1 * num2
 }
 
 function div(num1,num2){
