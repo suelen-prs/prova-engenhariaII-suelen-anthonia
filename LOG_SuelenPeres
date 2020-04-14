@@ -1,0 +1,83 @@
+    1  git clone https://github.com/suelen-prs/prova-engenhariaII-suelen-anthonia.git
+    2  cd prova-engenhariaII-suelen-anthonia/
+    3  npm i -g gitmoji-cli
+    4  gitmoji -i
+    5  gitmoji -c
+    6  git checkout -b soma
+    7  git add .
+    8  git commit
+    9  git checkout master
+   10  git push origin soma
+   11  git pull
+   12  git checkout soma
+   13  git add .
+   14  git commit
+   15  git push origin soma
+   16  git reset HEAD~1 --hard
+   17  git add .
+   18  git commit
+   19  git checkout master
+   20  git push origin soma
+   21  git push origin soma --force
+   22  git checkout soma
+   23  git checkout soma
+   24  git checkout master
+   25  git merge soma
+   26  git add .
+   27  git commit
+   28  git push origin soma
+   29  git fetch orgin
+   30  git merge --no-ff soma
+   31  git push orgin master
+   32  git pull
+   33  git merge soma
+   34  git checkout soma
+   35  git checkout soma
+   36  git add .
+   37  git commit -m "atualiza repositorio"
+   38  git status
+   39  git pull
+   40  git status
+   41  git checkout soma
+   42  git merge soma
+   43  git merge
+   44  git add
+   45  git add .
+   46  git status
+   47  git commit
+   48  git status
+   49  git checkout -b subtracao
+   50  git checkout master
+   51  git merge soma
+   52  git checkout soma
+   53  git checkout master
+   54  git pull
+   55  git checkout subtracao
+   56  git add .
+   57  git commit
+   58  git checkout master
+   59  git push origin subtracao
+   60  git checkout -b soma1
+   61  git checkout master
+   62  git pull
+   63  git status
+   64  git checkout soma
+   65  git checkout soma1
+   66  git add .
+   67  git commit
+   68  git checkout master
+   69  git push origin soma1
+   70  git checkout -b correcao
+   71  git add .
+   72  git commit
+   73  git checkout master
+   74  git checkout correcao
+   75  git tag 1.0.0
+   76  git checkout master
+   77  git push origin correcao
+   78  git log
+   79  git merge correcao
+   80  git merge
+   81  git log
+   82  git tag 1.0.0
+   83  history > LOG_SuelenPeres
