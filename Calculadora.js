@@ -1,5 +1,5 @@
-function sum(){
-    //TODO: Implementar soma
+function sum(num1, num2){
+    return num1 + num2
 }
 
 function sub(){
@@ -13,3 +13,5 @@ function mult(){
 function div(){
     //TODO: Implementar divisão
 }
+
+console.log(sum())
