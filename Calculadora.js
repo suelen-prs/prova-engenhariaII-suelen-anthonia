@@ -14,4 +14,4 @@ function div(){
     //TODO: Implementar divisão
 }
 
-console.log(sum())
+console.log(sum(20, 60))
