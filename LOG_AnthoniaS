@@ -7,7 +7,7 @@
   251  git config --global user.name "AnthoniaS"
   252  git config --global user.email "anthoniasr@gmail.com"
   253  git clone https://github.com/suelen-prs/prova-engenhariaII-suelen-anthonia.git
-  254  code.
+  254  code.  
   255  code .
   256  npm i -g gitmoji-cli
   257  gitmoji -i
