@@ -3,7 +3,7 @@
   247  antho@LAPTOP-PDTCB3RH MINGW64 ~/Desktop/prova1
   248  $ git config --global user.email "anthoniasr@gmail.com"
   249  antho@LAPTOP-PDTCB3RH MINGW64 ~/Desktop/prova1
-  250  $ git clone
+  250  $ git clone 
   251  git config --global user.name "AnthoniaS"
   252  git config --global user.email "anthoniasr@gmail.com"
   253  git clone https://github.com/suelen-prs/prova-engenhariaII-suelen-anthonia.git
