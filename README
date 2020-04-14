@@ -1,0 +1,13 @@
+**Descrição do Projeto**
+
+Este projeto foi desenvolvido na disciplina de Engenharia de Software 2.
+Tem por objetivo a avaliação dos alunos colaboradores.
+
+Para executar, é necessário usar o Visual Studio Code ou outro editor de texto
+de sua preferência.
+
+O projeto pode ser usado como modelo para desenvolver uma calculadora simples
+com funções de somar, subtrair, multiplicar e dividir.
+
+O comando history -c não apagou o historico anterior do LOG_Anthonia, então o historico
+dela vai começar no numero 245.
