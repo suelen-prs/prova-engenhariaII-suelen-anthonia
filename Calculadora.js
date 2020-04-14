@@ -14,7 +14,10 @@ function div(num1,num2){
     return num1 / num2
 }
 
-console.log(mult(2,5))
-
-
 console.log(sum(20, 60))
+console.log(sub(60, 30))
+console.log(mult(2,5))
+console.log(div(80, 10))
+
+
+
